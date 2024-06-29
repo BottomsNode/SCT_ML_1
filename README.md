@@ -30,3 +30,11 @@ The dataset used for this project contains information about various features of
    ```bash
    git clone https://github.com/your/repository.git
    cd repository
+   
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the script:
+   python house_price_prediction.py
+
+4. The script will train the linear regression model, make predictions on the test set, and display various visualizations to evaluate the model's performance.
